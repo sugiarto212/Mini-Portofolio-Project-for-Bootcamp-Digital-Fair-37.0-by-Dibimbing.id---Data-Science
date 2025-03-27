@@ -1,2 +1,2 @@
 # Mini-Portofolio-Project-for-Bootcamp-Digital-Fair-37.0-by-Dibimbing.id---Data-Science
-Comparative Analysis of Random Forest, Logistic Regression, and Support Vector Machine for Diabetes Progression Classification 
+This project is a comparative analysis of three machine learning algorithms: Random Forest, Logistic Regression, and Support Vector Machine in the classification of diabetes progression. Utilizing a dataset consisting of 442 samples and 10 predictor features, the project aims to evaluate the performance of each model based on accuracy, precision, recall, and confusion matrix. The results of this project will help in understanding the effectiveness of various classification methods in predicting the progression of diabetes. 
